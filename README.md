@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hjhxy
+- 👋 Hi, I’m zxy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
