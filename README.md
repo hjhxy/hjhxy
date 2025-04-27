@@ -1,8 +1,8 @@
-- 👋 Hi, I’m zxy, I hope to meet a group of interesting and thoughtful people on github to do challenging things together.
-- 👀 I’m interested in coding,I am from Shenzhen, Guangdong Province, I am in my first year as a graduate student. I am studying in **Central South University of Forestry and Technology** for my undergraduate degree and **Shenzhen University** for my postgraduate degree.
-- 🌱 At present, I am studying the **source code of Whistle and React and other tools or frameworks**. At the same time, I am doing some **interesting campus projects**. Welcome to learn together!
-- 💞️ During the undergraduate period, I worked as an intern in **Tencent** and other top Internet companies in China and got a formal offer of employment. Because I deeply felt that the technology I learned in my undergraduate studies was too shallow, I chose to go to graduate school in order to spend more time focusing on technology. With strong hands-on ability and self-drive, I have a strong curiosity for new things. I am currently building a personal blog, and I will put the link on the homepage when it is completed.
-- 📫 You can **contact me** at 3057472776@qq.com or 2410104004@email.szu.edu.cn.
+-👋 Hi, I 'm zxy and I' m looking forward to meeting a group of interesting, thoughtful people to do challenging things together.
+-👀 I am very interested in coding.  I completed my undergraduate studies at Central South University of Forestry and Technology and am currently pursuing a master's degree at Shenzhen University.  Currently, I am interning in the Douyin Live streaming department of ByteDance.
+-🌱 Source code of tools or frameworks that I am currently learning, such as whistle and React.  Meanwhile, I am also working on some interesting campus projects.  After completion, I will submit them to Github.
+-💞️ During my undergraduate years, I interned at Internet companies such as ** Tencent ** and was officially hired.  Because I deeply felt that the technologies and ways of thinking I learned during my undergraduate studies were too superficial, I chose to pursue a master's degree in order to have more time to focus on the improvement of technologies and cognition.  I have strong hands-on ability, am highly motivated and have a strong curiosity about new things.
+-📫 You can contact me at 3057472776@qq.com or 2410104004@email.szu.edu.cn.
 
 <!---
 hjhxy/hjhxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
